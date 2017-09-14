@@ -1,0 +1,10 @@
+C:\Users\Wellington Miyake\source\repos\CSharpintermediario\EstudoDelegates\bin\Debug\EstudoDelegates.exe.config
+C:\Users\Wellington Miyake\source\repos\CSharpintermediario\EstudoDelegates\bin\Debug\EstudoDelegates.exe
+C:\Users\Wellington Miyake\source\repos\CSharpintermediario\EstudoDelegates\bin\Debug\EstudoDelegates.pdb
+C:\Users\Wellington Miyake\source\repos\CSharpintermediario\EstudoDelegates\obj\Debug\EstudoDelegates.csprojResolveAssemblyReference.cache
+C:\Users\Wellington Miyake\source\repos\CSharpintermediario\EstudoDelegates\obj\Debug\EstudoDelegates.frmCalculadora.resources
+C:\Users\Wellington Miyake\source\repos\CSharpintermediario\EstudoDelegates\obj\Debug\EstudoDelegates.Properties.Resources.resources
+C:\Users\Wellington Miyake\source\repos\CSharpintermediario\EstudoDelegates\obj\Debug\EstudoDelegates.csproj.GenerateResource.Cache
+C:\Users\Wellington Miyake\source\repos\CSharpintermediario\EstudoDelegates\obj\Debug\EstudoDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Wellington Miyake\source\repos\CSharpintermediario\EstudoDelegates\obj\Debug\EstudoDelegates.exe
+C:\Users\Wellington Miyake\source\repos\CSharpintermediario\EstudoDelegates\obj\Debug\EstudoDelegates.pdb
